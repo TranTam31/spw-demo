@@ -1,0 +1,2 @@
+var n="__MY_WIDGET_SYSTEM_REGISTRY__";window[n]||(window[n]={});var t=window[n];function e(i,o){t[i]=o,console.log(`[SDK] \u0110\xE3 \u0111\u0103ng k\xFD th\xE0nh c\xF4ng: ${i}. Kho hi\u1EC7n t\u1EA1i:`,t)}function r(){return t}export{r as getRegisteredWidgets,e as registerWidget};
+//# sourceMappingURL=index.js.map
